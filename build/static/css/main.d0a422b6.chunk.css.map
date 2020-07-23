@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,IACE,6BAA8B,CAC9B,WACF,CAEA,EACE,gBACF","file":"main.d0a422b6.chunk.css","sourcesContent":["div {\n  border-bottom: 1px dashed #CCC;\n  margin: 15px;\n}\n\na {\n  margin-left: 15px;\n}\n"]}
